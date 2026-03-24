@@ -1,5 +1,4 @@
 # Olá, eu sou o Enzo Ferrari Lima
-# Olá, eu sou o Enzo Ferrari Lima! 👋
 
 ### 🚀 Aspirante a Desenvolvedor | Estudante SENAI
 
