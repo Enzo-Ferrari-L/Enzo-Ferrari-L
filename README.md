@@ -2,7 +2,7 @@
 
 ### 🚀 Aspirante a Desenvolvedor | Estudante SENAI
 
-Atualmente, estou iniciando minha jornada no curso **Técnico em Desenvolvimento de Sistemas no SENAI**. Estou na fase de construir uma base sólida em lógica e entender como a tecnologia move o mundo.
+Sou estudante de TI no SENAI e estou começando agora nessa área. Ainda estou aprendendo bastante coisa, mas tenho muita curiosidade e vontade de evoluir. Gosto de entender como a tecnologia funciona e, aos poucos, estou dando meus primeiros passos nesse mundo.
 
 ---
 
