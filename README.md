@@ -3,22 +3,19 @@
 ###  Aspirante a Programador | Estudante de Desenvolvimento de Sistemas no SENAI
 
 Sou um entusiasta da tecnologia em busca constante de aprendizado e evolução. Atualmente, estou focado em dominar as principais stacks do mercado através do curso técnico no **SENAI**, transformando lógica em soluções reais.
----
 
-###  Sobre Mim
-
--  **Localização:** [Sua Cidade/Estado], Brasil.
--  **Formação:** Cursando Técnico em Desenvolvimento de Sistemas no **SENAI**.
--  **Objetivo:** Construir uma carreira sólida como Desenvolvedor Full Stack, unindo design intuitivo e performance.
--  **Curiosidade:** Além da tecnologia, gosto de [Insira um hobby: ex: música, games, esportes ou automobilismo].
--  **No momento:** Estudando intensamente lógica de programação e versionamento com Git.
 
 ---
 
 ###  No que estou trabalhando:
--  Estudando **Lógica de Programação** e **Estrutura de Dados**.
--  Desenvolvendo projetos práticos no ecossistema do curso.
--  Focado em aprender: **[Insira aqui sua linguagem principal, ex: Java, Python ou JavaScript]**.
+
+ARI: Redes com IoT
+
+LER: Levantamento de Requisitos
+
+LOPAL: Lógica de Programação e Algoritmos
+
+SOP: Sistemas Operacionais
 
 ---
 
