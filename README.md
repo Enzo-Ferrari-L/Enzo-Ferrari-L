@@ -28,7 +28,7 @@ Dê uma olhada nos meus repositórios e vamos trocar uma ideia!
 
 ---
 
-
+https://media.tenor.com/ptl9U5YvK_wAAAAj/shiny-charizard-fire.gif
 
 
 
