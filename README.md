@@ -28,7 +28,7 @@ Dê uma olhada nos meus repositórios e vamos trocar uma ideia!
 
 ---
 
-> "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
+
 
 
 
